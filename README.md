@@ -44,7 +44,7 @@ Once you get it, you'll be able to start playing
 
 ### Users
 
-[Search for users][users] 
+[Search for users][users]
 
 [users]: http://www.behance.net/dev/api/endpoints/2#users-get-9
 
